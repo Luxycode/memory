@@ -12,7 +12,6 @@
 </head>
 
 <body>
-    <?php include("header.php"); ?>
 
     <main>
         <div class="bienvenue">
